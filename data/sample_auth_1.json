@@ -1,0 +1,16 @@
+[
+{"timestamp":"2026-10-14T10:00:00","username":"alice","source_ip":"203.0.113.10","outcome":"failure"},
+{"timestamp":"2026-10-14T10:00:30","username":"alice","source_ip":"203.0.113.10","outcome":"failure"},
+{"timestamp":"2026-10-14T10:01:00","username":"alice","source_ip":"203.0.113.10","outcome":"failure"},
+{"timestamp":"2026-10-14T10:01:30","username":"alice","source_ip":"203.0.113.10","outcome":"failure"},
+{"timestamp":"2026-10-14T10:02:00","username":"alice","source_ip":"203.0.113.10","outcome":"failure"},
+{"timestamp":"2026-10-14T10:03:00","username":"alice","source_ip":"203.0.113.10","outcome":"success"},
+{"timestamp":"2026-10-14T10:10:00","username":"alice","source_ip":"198.51.100.20","outcome":"failure"},
+{"timestamp":"2026-10-14T10:10:15","username":"bob","source_ip":"198.51.100.20","outcome":"failure"},
+{"timestamp":"2026-10-14T10:10:30","username":"carol","source_ip":"198.51.100.20","outcome":"failure"},
+{"timestamp":"2026-10-14T10:10:45","username":"dave","source_ip":"198.51.100.20","outcome":"failure"},
+{"timestamp":"2026-10-14T10:11:00","username":"eve","source_ip":"198.51.100.20","outcome":"failure"},
+{"timestamp":"2026-10-14T10:15:00","username":"frank","source_ip":"192.0.2.50","outcome":"failure"},
+{"timestamp":"2026-10-14T10:16:00","username":"frank","source_ip":"192.0.2.50","outcome":"failure"},
+{"timestamp":"2026-10-14T10:17:00","username":"frank","source_ip":"192.0.2.50","outcome":"success"}
+]
